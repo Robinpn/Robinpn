@@ -3,7 +3,7 @@
 
 <h2>Short info about me</h2>
 
-<p>I'm currently studying to become a fullstack web developer at Yrgo in Gothenburg Sweden. This repository mostly consists of projects and assignments we've had during our education</p>
+<p>I'm currently studying to become a fullstack web developer at <a href="https://www.yrgo.se/program/webbutvecklare/">Yrgo</a> in Gothenburg Sweden. This repository mostly consists of projects and assignments we've had during our education</p>
 <p>This way I can see for myself the gradual improvements (hopefully) as I get further along my education </p>
 
 <h3 align="left">Connect with me:</h3>
